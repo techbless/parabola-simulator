@@ -72,6 +72,23 @@
 	
 ## Example
 
+  #### draw 5 5 5 10 15 80 9.8
+  
+  	init X: 5, init Y: 5, init Z: 5
+	int VX: 10, init VY: 15, initVZ:80
+	acceleration of gravity: 9.8
+	
+  ![example/draw](https://github.com/Yunbin-Chang/Ball-In-Gravity-Trailing/blob/master/example/draw.PNG)
+  
+  #### where 5 5 5 10 15 80 9.8 10
+  
+  	init X: 5, init Y: 5, init Z: 5
+	int VX: 10, init VY: 15, initVZ:80
+	acceleration of gravity: 9.8
+  	time after a ball has been thrown: 10.
+	
+  ![example/where](https://github.com/Yunbin-Chang/Ball-In-Gravity-Trailing/blob/master/example/where.PNG)
+
 ## Should Notice Before Use
 
 	From Chris Yunbin Chang as one of the developer of this program, saying that This program never guarantee any errorneous, mis-working, anything that can ouccur while using this program.
