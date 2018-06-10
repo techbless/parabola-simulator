@@ -58,7 +58,7 @@
   
   ```python
     args = (10, 10, 10, 5, 5, 80, 9.8, 20)
-    draw(args)
+    where(args)
   ```
   
 	args[0] : initial position of X
@@ -69,3 +69,34 @@
 	args[5] : initial velocity of Z
 	args[6] : acceleration of gravity
 	args[7] : time that you want to know position and velocity after the ball have been thrown
+	
+## Example
+
+## Should Notice Before Use
+
+	From Chris Yunbin Chang as one of the developer of this program, saying that This program never guarantee any errorneous, mis-working, anything that can ouccur while using this program.
+
+## License
+
+   	MIT License
+
+	Copyright (c) 2018 Chris Yunbin Chang
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:
+
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.
+
