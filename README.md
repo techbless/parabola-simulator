@@ -12,6 +12,16 @@
   * Numpy
   * Virtual Environment(recommended)
   
+## Supposition
+
+  * No air resistance
+        
+	    This program had not been developed to consider the air resistance.
+  * No ground
+  
+  	     This program had not been developed to consider the Ground.
+	     The ball will keep going through the own way, both not stoping or bouncing on the ground.
+	     There is no GROUND to give any force to the ball.
   
 ## How to run
 
@@ -34,6 +44,8 @@
 
   #### `draw(args)`
   
+	you can draw the trail of the ball on 3D Axes Graph with draw() function.
+  
   * args should be passed to draw() as tuple
   * example below
   
@@ -52,6 +64,8 @@
   
   
   #### `where(args)`
+  
+	you can let your computer calculate the position and velocity of the ball at (n) second after thrown.
   
   * args should be passed to draw() as tuple
   * example below
@@ -91,7 +105,7 @@
 
 ## Should Notice Before Use
 
-	From Chris Yunbin Chang as one of the developer of this program, saying that This program never guarantee any errorneous, mis-working, anything that can ouccur while using this program.
+	Chris Yunbin Chang as one of the developer of this program notifies that This program never guarantee any errorneous, mis-working, anything that can ouccur while using this program.
 
 ## License
 
